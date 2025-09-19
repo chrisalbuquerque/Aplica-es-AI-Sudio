@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Retro Battle Tank",
+  "description": "A retro 2D top-down tank game inspired by Battle City. Control your tank with arrow keys, shoot with the spacebar, and destroy enemy tanks to survive.",
+  "requestFramePermissions": []
+}
